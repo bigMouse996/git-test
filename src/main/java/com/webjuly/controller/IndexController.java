@@ -13,6 +13,7 @@ public class IndexController {
     @RequestMapping("/")
     public String index() {
         System.out.println("hello");
+        System.out.println("hello world");
         return "hello world 55!";
     }
 }
