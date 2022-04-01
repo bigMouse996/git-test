@@ -15,6 +15,7 @@ public class IndexController {
         System.out.println("hello");
         System.out.println("hello world");
         System.out.println("master");
+        System.out.println("hot-fix commit2");
         return "hello world 55!";
     }
 }
