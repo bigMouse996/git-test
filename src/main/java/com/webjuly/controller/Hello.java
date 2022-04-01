@@ -5,5 +5,8 @@ package com.webjuly.controller;
  * @date : 2022/4/1 17:12
  */
 public class Hello {
-    System.out.println("hello,guyun");
+
+    public static void main(String[] args) {
+        System.out.println("hello,guyun");
+    }
 }
