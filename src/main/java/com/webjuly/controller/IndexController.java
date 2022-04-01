@@ -14,6 +14,7 @@ public class IndexController {
     public String index() {
         System.out.println("hello");
         System.out.println("hello world");
+        System.out.println("hot-fix commit2");
         return "hello world 55!";
     }
 }
